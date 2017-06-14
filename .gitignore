@@ -1,4 +1,4 @@
-Thumbs.db
+oThumbs.db
 *.obj
 *.exe
 *.pdb
@@ -17,8 +17,6 @@ Thumbs.db
 *.cache
 *.ilk
 *.log
-[Bb]in
-[Dd]ebug*/
 *.lib
 *.sbr
 obj/
@@ -27,3 +25,4 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 *.vssscc
 $tf*/
+*.manifest
